@@ -3,7 +3,7 @@
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
-	"homepage": "https://NEXO-PHenriques.github.io/ReactSite/projectoreact",
+	"homepage": "https://NEXO-PHenriques.github.io/ReactSite",
 	"scripts": {
 		"dev": "vite",
 		"build": "tsc -b && vite build",
